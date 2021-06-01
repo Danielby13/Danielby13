@@ -12,11 +12,13 @@ Currently pursuing my Bachelor’s in Software Engineering.
 * My Final Project 
 * Studying full stack web development
 
-### 📱 Final Project (in development):
+### 📱 Final Project - iCheck (in development):
 <hr>
 
-In my final project me and my partner built an app that replaces the paper invoices that are received from stores. Our app concentrates invoices in one place and allows the users to filter and analyze financial expenses. At the end of the purchase in the store, users of the app will be able to scan a QR code from the store terminal or give their cell phone number to the seller in order to receive the invoices in the app.
-The technologies chosen for development are **React Native, JavaScript, and the NoSQL FireBase-Cloud FireStore database** that uses cloud services to update, synchronize and view invoices quickly and up to date. The app can be run on iOS and Android operating systems.
+In my final project me and my partner built an app that manages and organizes digital invoices in one place, the idea for the app came from thinking about the environment and smarter consumption.
+
+<a href="https://github.com/Danielby13/iCheck">Click here to read more about the app</a>
+
 
 
 ### 📫 How to reach me:
