@@ -28,3 +28,6 @@ In my final project me and my partner built an app that manages and organizes di
    <a href="mailto:danielby13@gmail.com" target="_blank"><img src="https://i.ibb.co/PDPQkcp/gmail-im.png" alt="gmail-im" border="0"></a>
 </div>
 
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielby13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
