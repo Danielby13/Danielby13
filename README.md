@@ -4,7 +4,6 @@
 I am hard working software engineering student.
 Dedicated, determines and passionate for programming. I am creative and great at teamwork. Also, I am highly motivated to learning and solving problems.
 
-Currently pursuing my Bachelor’s in Software Engineering.
 
 ### 🔭 I’m currently working on:
 <hr>
@@ -12,7 +11,7 @@ Currently pursuing my Bachelor’s in Software Engineering.
 * My Final Project 
 * Studying full stack web development
 
-### 📱 Final Project - iCheck (in development):
+### 📱 Final Project - iCheck
 <hr>
 
 In my final project me and my partner built an app that manages and organizes digital invoices in one place, the idea for the app came from thinking about the environment and smarter consumption.
